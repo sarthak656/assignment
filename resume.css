@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(243, 217, 183);
+    
+}
+
+section h1{
+    font-size: 50px;
+    border: 15px solid white;
+    padding: 10px;
+    margin: 20px;
+    text-shadow: 2px 2px red;
+}
+
+p.p1{
+    font-size: larger;
+}
+
+p#intro{
+    font-style:oblique;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+    width: 500px;
+    line-height: 1.5;
+    background-color: white;
+}
+
+section li{
+    font-size: larger;
+}
+
+section ul#skill{
+    list-style: none;
+    border: 5px solid black;
+    width: 30%;
+}
